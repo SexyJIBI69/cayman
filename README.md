@@ -1,5 +1,3 @@
-# Writing the README content for the project
-readme_content = """
 # Cayman Islands Window Tinting Website
 
 This repository contains the code for a website dedicated to a window tinting service based in the Cayman Islands. The service specializes in tinting windows for cars, homes, boats, and more. The website is designed to showcase their services, portfolio, and contact information in a user-friendly and visually appealing way.
